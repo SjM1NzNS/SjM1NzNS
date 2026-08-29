@@ -1,4 +1,4 @@
-### Cypherpunk · Application & AI Security Research
+### Application & AI Security
 
 ---
 
