@@ -2,7 +2,7 @@
 
 ### Application & AI Security Research
 
-I build practical systems for structured, authorization-first security research. My interests include application security, AI and LLM security, Web3.
+I build practical systems for structured, authorization-first security research. My interests include application @ AI security.
 
 ## Featured Project
 
